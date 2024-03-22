@@ -1,4 +1,4 @@
-# TODO APPLICATION([https://nextjs.org/](https://to-do-list-pink-eight-43.vercel.app/))
+# TODO APPLICATION(https://to-do-list-pink-eight-43.vercel.app/)
 
 <img src="screenshot.png" alt="screenshot of the project">
 
