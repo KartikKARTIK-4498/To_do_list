@@ -1,39 +1,55 @@
-# Base de Projet de Liste de Tâches (To-Do List)
+# TODO APPLICATION
 
-Ce dépôt contient le code de base pour une application simple de liste de tâches construite avec Next.js. C'est un point de départ pour un travail pratique où vous devrez améliorer l'application, y intégrer une base de données MongoDB et déployer le tout sur Vercel.
+<img src="https://res.cloudinary.com/df1unjmwz/image/upload/v1641541892/toto_app_preview_xagnrj.png" alt="screenshot of the project">
 
-## Objectifs de l'Amélioration
+<!-- ABOUT THE PROJECT -->
+## About The Project
 
-Votre mission consiste à enrichir cette application de base en y ajoutant des fonctionnalités supplémentaires et une persistance des données. Voici les étapes à suivre :
+### Built With
 
-1. **Amélioration de l'Application :**
-   - Implémentez la fonctionnalité pour ajouter de nouvelles tâches.
-   - Ajoutez la possibilité de supprimer des tâches.
-   - Permettez l'édition des tâches existantes.
+* [Next.js](https://nextjs.org/)
+* [Mongodb](https://mongodb.com/)
 
-2. **Intégration avec MongoDB :**
-   - Créez un compte gratuit sur [MongoDB Atlas](https://www.mongodb.com/cloud/atlas) pour héberger votre base de données.
-   - Configurez un nouveau cluster et créez une base de données pour votre application.
-   - Utilisez la bibliothèque Mongoose ou le client MongoDB natif de Node.js pour connecter votre application Next.js à votre base de données MongoDB.
-   - Modifiez votre application pour qu'elle utilise la base de données pour la création, la lecture, la mise à jour et la suppression des tâches.
+<!-- GETTING STARTED -->
+## Getting Started
 
-3. **Déploiement sur Vercel :**
-   - Créez un compte sur [Vercel](https://vercel.com/) si vous n'en avez pas encore.
-   - Connectez votre dépôt GitHub à Vercel pour le déploiement automatique.
-   - Configurez les variables d'environnement nécessaires sur Vercel, notamment vos chaînes de connexion à la base de données.
+This is an example of how you may give instructions on setting up your project locally.
+To get a local copy up and running follow these simple example steps.
 
-## Structure du Projet
+### Prerequisites
 
-- `pages/` : Contient les fichiers de page de l'application Next.js, y compris le point d'entrée principal `index.js`.
-- `styles/` : Contient les fichiers CSS globaux, y compris `globals.css` pour les styles de base.
-- `public/` : Contient les ressources statiques comme le favicon.
+This is an example of how to list things you need to use the software and how to install them.
 
-## Instructions pour le Développement Local
+* nodejs >= 14.17.6
+* yarn = latest
 
-Pour commencer le développement local :
+### Installation
 
-1. Clonez le dépôt sur votre machine locale.
-2. Installez les dépendances avec `npm install`.
-3. Lancez le serveur de développement avec `npm run dev`.
-4. Ouvrez `http://localhost:3000` dans votre navigateur pour voir l'application.
+1. Clone the repo
+   ```sh
+   git clone https://github.com/disalad/todo-app.git
+   ```
+2. Install 3rd party packages
+   ```sh
+   yarn install
+   ```
 
+3. Enter your mongodb uri in an enviroment file in root directory.
+   ```env
+   MONGODB_URI = your mongodb uri
+   ```
+   
+4. Start app in a development server 
+   ```sh
+   yarn dev
+   ```
+
+<!-- LICENSE -->
+## License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+<!-- CONTACT -->
+## Contact
+
+Project Link: [https://github.com/disalad/todo-app](https://github.com/disalad/todo-app)
