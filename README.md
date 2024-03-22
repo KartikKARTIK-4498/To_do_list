@@ -48,8 +48,3 @@ This is an example of how to list things you need to use the software and how to
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
-
-<!-- CONTACT -->
-## Contact
-
-Project Link: [https://github.com/disalad/todo-app](https://github.com/disalad/todo-app)
