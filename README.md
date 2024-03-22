@@ -1,6 +1,6 @@
 # TODO APPLICATION
 
-<img src="screenshot" alt="screenshot of the project">
+<img src="screenshot.png" alt="screenshot of the project">
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
