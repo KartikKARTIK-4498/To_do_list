@@ -46,7 +46,7 @@ This is an example of how to list things you need to use the software and how to
 
    ## Group Members:
 
-* [Kartik KARTIK](https://www.linkedin.com/in/kartikkartik13/))
+* [Kartik KARTIK](https://www.linkedin.com/in/kartikkartik13/)
 * [Chetana OLI](https://www.linkedin.com/in/chetana-oli-%E2%AD%90%EF%B8%8F-01a381188/)
 * [Krishnaraj KONGANAPURAM CHIDAMBARAM](https://www.linkedin.com/in/krishnaraj-chidambaram-2291b9276/)
 
