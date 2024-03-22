@@ -1,6 +1,13 @@
 # [APPLICATION DE LISTE DE TÂCHES](https://to-do-list-pink-eight-43.vercel.app/)
 
-<img src="screenshot.png" alt="capture d'écran du projet">
+#### * Homepage
+<img src="screenshot.png" alt="capture d'écran-01 du projet">
+
+#### * Pendinglist
+<img src="pendinglist.png" alt="capture d'écran-02 du projet">
+
+#### * Important list
+<img src="important_list.png" alt="capture d'écran-03 du projet">
 
 <!-- À PROPOS DU PROJET -->
 ## À Propos Du Projet
@@ -49,4 +56,3 @@ Ceci est un exemple de comment lister les choses dont vous avez besoin pour util
 * [Kartik KARTIK](https://www.linkedin.com/in/kartikkartik13/)
 * [Chetana OLI](https://www.linkedin.com/in/chetana-oli-%E2%AD%90%EF%B8%8F-01a381188/)
 * [Krishnaraj KONGANAPURAM CHIDAMBARAM](https://www.linkedin.com/in/krishnaraj-chidambaram-2291b9276/)
-```
