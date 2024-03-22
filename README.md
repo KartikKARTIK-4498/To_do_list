@@ -1,6 +1,6 @@
 # TODO APPLICATION
 
-<img src="https://res.cloudinary.com/df1unjmwz/image/upload/v1641541892/toto_app_preview_xagnrj.png" alt="screenshot of the project">
+<img src="screenshot" alt="screenshot of the project">
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
