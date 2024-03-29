@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # [APPLICATION DE LISTE DE TÂCHES]
 =======
 # [APPLICATION DE LISTE DE TÂCHES](https://to-do-list-pink-eight-43.vercel.app/)
