@@ -1,0 +1,11 @@
+{
+  "/_app": "pages/_app.js",
+  "/api/new": "pages/api/new.js",
+  "/api/todo/[id]": "pages/api/todo/[id].js",
+  "/important": "pages/important.js",
+  "/": "pages/index.js",
+  "/pending": "pages/pending.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/404": "pages/404.html"
+}
