@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # [APPLICATION DE LISTE DE TÂCHES]
+=======
+# [APPLICATION DE LISTE DE TÂCHES](https://to-do-list-pink-eight-43.vercel.app/)
+>>>>>>> daf1795927da2d71e7fda32ee847e5794b9052d5
 
 #### * Homepage
 <img src="screenshot.png" alt="capture d'écran-01 du projet">
@@ -51,9 +55,12 @@ Ceci est un exemple de comment lister les choses dont vous avez besoin pour util
    yarn dev
    ```
 
+<<<<<<< HEAD
 ### Jest Testing :
 <img src="Jest_testing.png" alt="capture d'écran-05 du projet">
 
+=======
+>>>>>>> daf1795927da2d71e7fda32ee847e5794b9052d5
 ### Membres Du Groupe :
 
 * [Kartik KARTIK](https://www.linkedin.com/in/kartikkartik13/)

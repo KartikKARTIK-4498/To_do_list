@@ -1,5 +1,6 @@
 {
   "/_app": "pages/_app.js",
+<<<<<<< HEAD
   "/api/new": "pages/api/new.js",
   "/api/todo/[id]": "pages/api/todo/[id].js",
   "/important": "pages/important.js",
@@ -8,4 +9,9 @@
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
   "/404": "pages/404.html"
+=======
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/": "pages/index.js"
+>>>>>>> daf1795927da2d71e7fda32ee847e5794b9052d5
 }
